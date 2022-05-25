@@ -1,5 +1,6 @@
 # Introduction
-This script installs docker and tools in WSL2/Ubuntu
+This script installs docker and tools in WSL2/Ubuntu.
+<ins>And remember: Don't forget to reboot your Windows Workstaion after applying the script...</ins>
 
 Due to new licence model of Docker Desktop :-(, the installation of 'Docker Desktop' MUST be uninstalled by adessi.
 
